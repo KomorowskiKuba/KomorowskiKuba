@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React and Django.
 - 💞️ I’m looking to collaborate on interesting projects and I'm open for work.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jakub-komorowski-402b25200/).
-- 💻 I'm currently working as a part-time QA tester at Neptune.ai.
+- 💻 I'm currently working as a fullstack developer at mBank and part-time QA tester at Neptune.ai.
 
 <!---
 KomorowskiKuba/KomorowskiKuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
