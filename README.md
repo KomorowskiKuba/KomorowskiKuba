@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=KomorowskiKuba&icon=1&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👋 Hi, I’m @KomorowskiKuba<br>🏫 I am a recent engineering graduate of applied computer science at the Warsaw University of Technology<br>👀 I’m interested in web programming, Artificial Intelligence and Computer Vision<br>🏃 In my spare time I'm training bouldering and running. I'm also interested in speciality coffee, travelling, design and art<br>🌱 I’m currently learning React and Django<br>💞️ I’m looking to collaborate on interesting projects and I'm open to work<br>📫 You can reach me on LinkedIn.<br>💻 I'm currently working as a full-time fullstack developer at mBank and a part-time QA tester at Neptune.ai
 
@@ -10,8 +11,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KomorowskiKuba&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=KomorowskiKuba&icon=1&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
